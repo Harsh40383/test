@@ -1,3 +1,3 @@
-a=3
+clsa=3
 b=5
-print(a+b)
+print("sum is",a+b)
